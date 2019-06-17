@@ -1,0 +1,37 @@
+#jumbo1{
+    background-image: url('/images/pic3.jpg');
+    background-repeat: no-repeat;
+    object-fit: scale-down;
+    height:100%;  
+    color: white;
+    text-align: center;       
+}
+body{
+    font-family: 'Titillium Web', sans-serif;
+    background-color: snow;
+}
+
+.projects{
+    border: 2px solid lightslategray;
+    border-radius:5px;
+    text-align:center;
+    margin:2px;
+    background-color:white;
+}
+
+a{
+    font-size:18px;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline;
+}
+
+.icons{
+    height:8%;
+    width:8%;
+}

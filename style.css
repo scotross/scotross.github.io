@@ -1,10 +1,9 @@
 #jumbo1{
-    background-image: url('/images/pic3.jpg');
-    background-repeat: no-repeat;
-    object-fit: scale-down;
-    height:100%;  
+    background: url(images/pic3.jpg) no-repeat center center fixed; 
+    background-size: cover;
     color: white;
-    text-align: center;       
+    text-align: center;
+    height:100%;   
 }
 body{
     font-family: 'Titillium Web', sans-serif;
@@ -43,4 +42,5 @@ li{
     width:12%;
     margin-right:25px;
 }
+
 

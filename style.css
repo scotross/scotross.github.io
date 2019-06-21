@@ -8,15 +8,16 @@
 }
 body{
     font-family: 'Titillium Web', sans-serif;
-    background-color: snow;
+    background-color: mintcream;
 }
 
 .projects{
-    border: 2px solid lightslategray;
+    border: 3px solid black;
     border-radius:5px;
-    text-align:center;
+    text-align: center;
     margin:2px;
-    background-color:white;
+    background-color:lightslategray;
+    color:white;
 }
 
 a{
@@ -34,9 +35,12 @@ li{
 .icons{
     height:8%;
     width:8%;
+    margin-right:25px;
 }
 
 .icons1{
-    height:15%;
-    width:15%;
+    height:11%;
+    width:12%;
+    margin-right:25px;
 }
+
